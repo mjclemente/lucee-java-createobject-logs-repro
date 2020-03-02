@@ -1,0 +1,12 @@
+{
+    "name":"test",
+    "debug":false,
+    "app":{
+        "cfengine":"http://update.lucee.org/rest/update/provider/forgebox/5.3.5.83-snapshot",
+        "sessionCookieSecure":true,
+        "sessionCookieHTTPOnly":true
+    },
+    "jvm":{
+        "javaVersion":"openjdk11_jre_x64_mac_hotspot_jdk-11.0.6+10"
+    }
+}
